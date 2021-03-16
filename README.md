@@ -1,2 +1,2 @@
 # TicTacToeGame
-A Tic tac toe game as an exercice for graduation.
+# A Tic tac toe game as an exercice for graduation.
